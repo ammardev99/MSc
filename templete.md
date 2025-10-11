@@ -1,25 +1,13 @@
-# Subject
+# Subject: Title
 
 ## w1
 
-1. **What is Software Engineering?**
-   - Definition and scope
-   - Importance in modern systems
-2. **Software Process Models**
-   - Waterfall model
-   - Agile model
-   - Spiral model
+1. **Topic 1**
+   - SubTopics
+2. **Topic 2**
+   - SubTopics
 
 ---
-
-## w2
-
-1. **Functional vs Non-functional Requirements**
-   - Examples and differences
-2. **Requirement Gathering Techniques**
-   - Interviews
-   - Surveys
-   - Observation
 
 <!-- |  Symbol | Use                    | Example                  | -->
 <!-- | :-----: | :--------------------- | :----------------------- | -->
