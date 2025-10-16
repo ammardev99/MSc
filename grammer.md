@@ -24,4 +24,6 @@
 - Centralized Synchronous
 - Physical type
 - Data Transfer
-- 
+- Regular Expression
+- at least
+- definition
