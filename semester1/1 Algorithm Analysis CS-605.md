@@ -114,6 +114,8 @@ Used to describe **growth rate of algorithm’s running time** as input size `n`
   2. Ignore constants and smaller terms.
   3. Justify **why** you drop certain terms.
 
+---
+
 ## **Week 3**
 
 - Class Miss
