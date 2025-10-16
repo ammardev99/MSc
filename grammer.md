@@ -19,3 +19,9 @@
 - Instructor
 - Instructions
 - paragraph
+- Concepts
+- Computer architecture
+- Centralized Synchronous
+- Physical type
+- Data Transfer
+- 
